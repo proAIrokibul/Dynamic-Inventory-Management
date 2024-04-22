@@ -1,7 +1,7 @@
 # Dynamic-Inventory-Management
 
 ## Project Description:
-Our inventory management system, eInventory Management, is a comprehensive solution designed to streamline and optimize inventory operations for businesses of all sizes. Leveraging advanced data preprocessing techniques, exploratory data analysis (EDA), and intuitive inventory management functionalities, our system empowers businesses to efficiently manage their inventory, make informed decisions, and drive profitability.
+Our inventory management system, Inventory Management, is a comprehensive solution designed to streamline and optimize inventory operations for businesses of all sizes. Leveraging advanced data preprocessing techniques, exploratory data analysis (EDA), and intuitive inventory management functionalities, our system empowers businesses to efficiently manage their inventory, make informed decisions, and drive profitability.
 
 ## Key Features:
 
