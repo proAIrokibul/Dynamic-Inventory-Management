@@ -7,6 +7,7 @@ Our inventory management system, eInventory Management, is a comprehensive solut
 
 1- Data Preprocessing: 
 Our system preprocesses the inventory dataset, handling missing values and standardizing numerical features to ensure data integrity and consistency.
+
 2- Exploratory Data Analysis (EDA): 
 Through EDA, businesses gain valuable insights into their inventory data, including summary statistics, correlation analysis, distribution of numerical and categorical features, and visualization of product descriptions via word clouds.
 3- Inventory Management Functionalities:
