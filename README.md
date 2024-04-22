@@ -5,26 +5,26 @@ Our inventory management system, eInventory Management, is a comprehensive solut
 
 ## Key Features:
 
-### Data Preprocessing: 
+1- Data Preprocessing: 
 Our system preprocesses the inventory dataset, handling missing values and standardizing numerical features to ensure data integrity and consistency.
-### Exploratory Data Analysis (EDA): 
+2- Exploratory Data Analysis (EDA): 
 Through EDA, businesses gain valuable insights into their inventory data, including summary statistics, correlation analysis, distribution of numerical and categorical features, and visualization of product descriptions via word clouds.
-### Inventory Management Functionalities:
+3- Inventory Management Functionalities:
 Our system offers essential inventory management functionalities, including:
-### Product Search: 
+4- Product Search: 
 Easily search for products by name to locate specific items in the inventory.
-### Category Filtering:
+5- Category Filtering:
 Filter products by category to view inventory within specific product categories, enhancing organization and efficiency.
-### Price Range Filtering:
+6- Price Range Filtering:
 Filter products by price range to identify products within a desired price bracket, facilitating pricing strategies and decision-making.
 
 ## Benefits for Businesses:
 
-### Improved Inventory Management: 
+1- Improved Inventory Management: 
 By leveraging data preprocessing and EDA, businesses gain insights into inventory trends, demand patterns, and product performance, enabling more effective inventory management strategies.
-### Enhanced Decision-Making: 
+2- Enhanced Decision-Making: 
 The ability to search for products, filter by category, and analyze price ranges empowers businesses to make data-driven decisions regarding inventory replenishment, pricing, and assortment planning.
-### Increased Efficiency:
+3- Increased Efficiency:
 Our system streamlines inventory operations, saving time and resources by providing quick access to relevant inventory information and facilitating inventory organization and categorization.
 
 
